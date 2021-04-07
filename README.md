@@ -35,9 +35,9 @@ More details about the UT Austin Energy A.I. Hackathon
 
 ____
 
-## The Energy A.I. 2021 Schedule
+# The Energy A.I. 2021 Schedule
 
-**DAY 1 / April 10th - Energy A.I. Hackathon 2021 Workshop Schedule**
+## **DAY 1 / April 10th - Energy A.I. Hackathon 2021 Workshop Schedule**
 
 8 am – 8:15 am: Hackathon Welcome, Introduction and Review Plan and Rules – Prof. Olson / Prof. Pyrcz
 
@@ -58,21 +58,21 @@ ____
 4:30 - : Teams Break-out for Initial Data Review and Planning
 
 
-**DAY 2 / April 11th - Energy A.I. Hackathon 2021 Working Session**
+## **DAY 2 / April 11th - Energy A.I. Hackathon 2021 Working Session**
 
 8 am – 5 pm: Teams in break-out rooms, anticipated project stages: Problem Formulation, Data Analysis, Feature Selection, Initial Workflow Prototyping.
 
 9-11 am and 1 – 3 pm: Expert mentors visiting with teams. Teams may request mentor assists and mentors may drop in on teams.
 
 
-**DAY 3 / April 17th  - Energy A.I. Hackathon 2021 Working Session** 
+## **DAY 3 / April 17th  - Energy A.I. Hackathon 2021 Working Session** 
 
 8 am – 5 pm: Teams in break-out rooms, anticipated project stages: Continue from April 11th and including Workflow Review and Improvements.
 
 9-11 am and 1 – 3 pm: Expert mentors visiting with teams. Teams may request mentor assists and mentors may drop in on teams.
 
 
-**DAY 4 / April 18th - Energy A.I. Hackathon 2021 Documentation, Presentations and Awards**
+## **DAY 4 / April 18th - Energy A.I. Hackathon 2021 Documentation, Presentations and Awards**
 
 8 am – 12 noon: Teams in break-out rooms, anticipated project stages: Workflow Documentation, Presentation Preparation.
 
