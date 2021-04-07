@@ -1,10 +1,12 @@
 # Energy A.I. Hackathon 2021
 
-## Hosts: Prof. Michael Pyrcz and Prof. John Foster
+## Hosts: [Prof. Michael Pyrcz](https://twitter.com/GeostatsGuy) and [Prof. John Foster](https://twitter.com/johntfoster)
 
 ### Architects: Honggen Jo and Mingyuan Yang
 
-### Sponsor: Prof. Jon Olson, and the Hildebrand Department of Petroleum and Geosystems Engineering
+### Sponsor: [Prof. Jon Olson](https://twitter.com/ProfJEOlson), and the [Hildebrand Department of Petroleum and Geosystems Engineering](https://twitter.com/UT_PGE)
+
+### Organization and Student Engagement: Gabby Banales and Sara Hernando
 
 On behalf of Prof. Foster (our co-Host), Gabby, Sara, Prof. Olson (our department chair) and the Hildebrand Department of Petroleum and Geosystems Engineering, we welcome you to the Energy A.I. Hackathon. We are excited to host the event and we are confident that this will be a great learning experience for all!
 
