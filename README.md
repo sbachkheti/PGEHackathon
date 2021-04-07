@@ -28,12 +28,12 @@ More details about the UT Austin Energy A.I. Hackathon
 
     | Name | Role | Organization |
     |------|------|--------------|
-    | Graham Ganssle | Head of Data Science	| Experoinc |
-    | Kumar Lakshmipathi | Principal Architect | Amazon AWS |
-    | Sarita Salunke | Petrophysicist | BP |
-    | Ben Amaba	| CTO Cloud & Cognitive | IBM |
-    | Jesse Pisel |	Professor of Practice	| UT Natural Sciences |
-    | David Holmes | CTO Energy	| Dell Technologies |
+    | [Graham Ganssle](https://twitter.com/GrahamGanssle) | Head of Data Science	| Experoinc |
+    | [Kumar Lakshmipathi](https://www.linkedin.com/in/kumar-lakshmipathi/) | Principal Architect | Amazon AWS |
+    | [Sarita Salunke](https://www.linkedin.com/in/sarita-salunke-122aa630/) | Petrophysicist | BP |
+    | [Ben Amaba](https://twitter.com/benamaba?lang=en)	| CTO Cloud & Cognitive | IBM |
+    | [Jesse Pisel](https://twitter.com/geologyjesse) |	Professor of Practice	| UT Natural Sciences |
+    | [David Holmes](https://twitter.com/DavidHolmesUK) | CTO Energy	| Dell Technologies |
 
 ____
 
